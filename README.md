@@ -6,6 +6,6 @@ git clone https://github.com/IvanDezaD/AutoTestsForAdsis.git
 cd AutoTestsForAdsis  
 chmod +x *  
 ./install.sh <path-to-tests-folder>   
-now in order to view the help menu run (in tests folder):  
+Now in order to view the help menu run (in tests folder):  
 ./AutoTest.sh -h  
 That should be it  
